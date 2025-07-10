@@ -1,7 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { QrCode, Smartphone, Download, Share2, Scan, CheckCircle } from "lucide-react";
-import qrImage from "@/assets/qr-section.jpg";
+import qrImage from "@/assets/qr-section.png";
 
 const QRSection = () => {
   return (
