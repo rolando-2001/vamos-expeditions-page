@@ -23,7 +23,7 @@ const Header = () => {
             <a href="#beneficios" className="text-foreground hover:text-primary transition-colors">Beneficios</a>
             <a href="#qr" className="text-foreground hover:text-primary transition-colors">Código QR</a>
             <Button variant="default" className="bg-primary hover:bg-primary/90">
-             <a href="https://vamosexpeditions.netlify.app/login">
+             <a href="https://vamosexpeditions.netlify.app/login" target="_blank" rel="noopener noreferrer">
               Comenzar
              </a>
               

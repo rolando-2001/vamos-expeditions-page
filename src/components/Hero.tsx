@@ -53,8 +53,11 @@ const Hero = () => {
               size="lg"
               className="border-primary-foreground/30 text-primary bg-primary-foreground/10 px-8 py-4 text-lg backdrop-blur-sm"
             >
-              <a href="https://vamosexpeditions.netlify.app/login">
-                
+              <a
+                href="https://vamosexpeditions.netlify.app/login"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Ver Demo
               </a>
             </Button>
